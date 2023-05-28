@@ -5,7 +5,6 @@ DATE: 15-03-2023
 AIM :
 To write a python program to perform stop and wait protocol
 
-
 ## ALGORITHM :
 ```
 1.Start the program.
